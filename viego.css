@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+    background-image: url(https://img.gta5-mods.com/q95/images/viego-league-of-legendes-loadingscreen/c8f3af-Viego-LoL.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+li {
+    margin-left: -1290px;
+}

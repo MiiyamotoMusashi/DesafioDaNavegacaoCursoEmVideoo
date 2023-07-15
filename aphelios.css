@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+    background-image: url(https://mobimg.b-cdn.net/v3/fetch/f1/f18d5b672d3e006ae3744dede9c683fb.jpeg?w=2000);
+    background-position: center;
+    background-size: cover;
+}
+
+li {
+    margin-left: -1290px;
+}
